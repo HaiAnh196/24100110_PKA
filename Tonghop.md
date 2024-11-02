@@ -7,7 +7,7 @@ python.code
 **1. Giới thiệu máy tính:**
 - Định nghĩa: Máy tính là thiết bị điện tử có khả năng xử lý, lưu trữ và truy xuất dữ liệu. Nó hỗ trợ nhiều hoạt động từ tính toán đơn giản đến điều hành các hệ thống phức tạp.
 - Ứng dụng:
-	+ Giáo dục: Hỗ trợ học trực tuyến, phần mềm giảng dạy.
+  	+ Giáo dục: Hỗ trợ học trực tuyến, phần mềm giảng dạy.
  	+ Kinh doanh: Quản lý tài chính, khách hàng và vận hành doanh nghiệp.
  	+ Sản xuất: Lên kế hoạch sản xuất và điều khiển dây chuyền.
 - Phân loại máy tính:
@@ -15,7 +15,7 @@ python.code
 	+ Máy tính bảng (Tablet): Tiện lợi, tích hợp màn hình cảm ứng.
 	+ Máy trạm (Workstation): Dùng cho công việc đòi hỏi sức mạnh tính toán lớn.
 	+ Máy chủ (Server): Quản lý và cung cấp dịch vụ cho các máy tính khác.
-	+	Siêu máy tính (Supercomputer): Sử dụng trong nghiên cứu khoa học phức tạp.
+	+ Siêu máy tính (Supercomputer): Sử dụng trong nghiên cứu khoa học phức tạp.
 	+ Máy tính lượng tử (Quantum Computer): Công nghệ tiên tiến đang phát triển.
 **2. Lịch sử phát triển:**
    - Jacques de Vaucanson (1709-1782): Đóng góp vào tự động hóa, nổi tiếng với "con vịt tự động" và máy dệt.
